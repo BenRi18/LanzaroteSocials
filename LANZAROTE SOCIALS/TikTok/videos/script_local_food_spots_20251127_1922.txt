@@ -1,0 +1,42 @@
+TIKTOK VIDEO SCRIPT
+============================================================
+
+Generated: 2025-11-27 19:22:25
+Theme: local food spots
+
+============================================================
+
+AI GENERATED SCRIPT:
+------------------------------------------------------------
+{
+  "topic": "local food spots",
+  "hook": "Get ready for a flavor explosion in Lanzarote!",
+  "scenes": [
+    {
+      "narration": "From traditional tapas to fresh seafood, Lanzarote's got it all!",
+      "visual": "Quick cuts of various local dishes, with upbeat background music",
+      "duration": 5
+    },
+    {
+      "narration": "Let's start with a classic: papas arrugadas con mojo!",
+      "visual": "Close-up shot of papas arrugadas con mojo, with a chef preparing it in the background",
+      "duration": 5
+    },
+    {
+      "narration": "And for the seafood lovers, you can't miss the grilled octopus at El Charco!",
+      "visual": "Shot of a plate of grilled octopus, with a brief glimpse of the El Charco restaurant",
+      "duration": 5
+    },
+    {
+      "narration": "Want to know the best part? These spots are hidden gems, only known to locals!",
+      "visual": "Quick cuts of happy locals enjoying their meals, with a map of Lanzarote in the background",
+      "duration": 5
+    },
+    {
+      "narration": "So, who's ready to taste the real Lanzarote?",
+      "visual": "Shot of a person taking a bite, with a delighted expression, and the sound of a fork clinking on a plate",
+      "duration": 5
+    }
+  ],
+  "cta": "Follow for more Lanzarote tips!"
+}

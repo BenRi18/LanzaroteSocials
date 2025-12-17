@@ -1,0 +1,55 @@
+TIKTOK VIDEO SCRIPT
+============================================================
+
+Generated: 2025-11-27 03:33:37
+
+ANSWERS:
+------------------------------------------------------------
+q1: 
+q2: 
+q3: 
+q4: 
+q5: 
+
+============================================================
+
+AI GENERATED SCRIPT:
+------------------------------------------------------------
+```json
+{
+  "hook": "WAIT, are you making these 3 skincare mistakes?",
+  "scenes": [
+    {
+      "narration": "Hey, beauties! Let's talk about skincare. We all want that glowy, healthy skin, but sometimes we sabotage our own efforts without even realizing it.",
+      "visual": "Close-up of a person holding a skincare product with a confused expression",
+      "duration": 5
+    },
+    {
+      "narration": "Mistake #1: Over-exfoliating! You might think exfoliating daily is the key to perfect skin, but it can actually lead to irritation and dryness.",
+      "visual": "Animated graphic illustrating over-exfoliating with a red 'X' symbol",
+      "duration": 4
+    },
+    {
+      "narration": "Mistake #2: Using the wrong products for your skin type. Yes, that trendy new moisturizer might be great for your friend, but it could be disastrous for your skin.",
+      "visual": "Split-screen comparison of different skin types with corresponding products",
+      "duration": 5
+    },
+    {
+      "narration": "Mistake #3: Not wearing sunscreen daily! UV rays can cause premature aging and even skin cancer, so don't skip this crucial step.",
+      "visual": "Time-lapse of a person applying sunscreen with a sunny background",
+      "duration": 4
+    },
+    {
+      "narration": "So, how can you avoid these mistakes and get the skin of your dreams? Stay tuned for my next video where I'll share my top skincare tips and favorite products!",
+      "visual": "Teaser clip of upcoming content with a 'stay tuned' graphic",
+      "duration": 5
+    }
+  ],
+  "cta": "Follow me for more skincare secrets and tag a friend who needs to see this! #SkincareTips #GlowUp #TikTokBeauty"
+}
+```
+
+============================================================
+
+NEXT STEP: Use this script with Flow or your video editor
+to create the actual video file.

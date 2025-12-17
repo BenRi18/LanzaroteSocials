@@ -1,0 +1,21 @@
+TIKTOK VIDEO SCRIPT
+============================================================
+
+Generated: 2025-11-27 03:46:02
+Theme: cultural insights
+
+============================================================
+
+AI GENERATED SCRIPT:
+------------------------------------------------------------
+{
+  "topic": "cultural insights",
+  "hook": "Hola, island lovers!",
+  "scenes": [
+    {"narration": "Welcome to Lanzarote, where the volcanic landscapes meet vibrant culture!", "visual": "Aerial shot of Lanzarote's unique landscapes", "duration": 5},
+    {"narration": "Did you know that Lanzarote is home to the beautiful Timanfaya National Park?", "visual": "Footage of Timanfaya National Park with volcanic mountains and camels", "duration": 6},
+    {"narration": "And have you tried our famous local wine, produced from grapes grown in the volcanic soil?", "visual": "Video of wine tasting at a local vineyard", "duration": 7},
+    {"narration": "From stunning beaches to rich history, Lanzarote has so much to offer. Stay tuned for more island secrets!", "visual": "Montage of Lanzarote's beaches, historic sites, and local markets", "duration": 7}
+  ],
+  "cta": "Follow for more Lanzarote tips!"
+}

@@ -1,0 +1,22 @@
+TIKTOK VIDEO SCRIPT
+============================================================
+
+Generated: 2025-11-27 19:18:19
+Theme: local food spots
+
+============================================================
+
+AI GENERATED SCRIPT:
+------------------------------------------------------------
+{
+  "topic": "local food spots",
+  "hook": "Get ready for a flavor explosion in Lanzarote!",
+  "scenes": [
+    {"narration": "From traditional Canarian cuisine to fresh seafood", "visual": "Show a mix of local dishes and seafood on a plate", "duration": 5},
+    {"narration": "Let's start with a classic: Papas Arrugadas with Mojo sauce", "visual": "Close-up of Papas Arrugadas with Mojo sauce being poured", "duration": 5},
+    {"narration": "And for the best seafood, head to the harbor in Puerto del Carmen", "visual": "Show the harbor with boats and seafood restaurants", "duration": 5},
+    {"narration": "Try the local wine, made from the unique volcanic grapes of Lanzarote", "visual": "Show a bottle of Lanzarote wine with a glass being poured", "duration": 5},
+    {"narration": "And don't forget to try a traditional Canarian dessert, like Bienmesabe", "visual": "Show a dessert plate with Bienmesabe and a spoon taking a bite", "duration": 5}
+  ],
+  "cta": "Follow for more Lanzarote tips!"
+}
